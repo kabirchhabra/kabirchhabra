@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kabir Chhabra</h1>
-<h3 align="center">Computer Engineering student at Thapar Institute of Engineering and Technology. Passionate engineer who believes in getting things done without compromising on quality.</h3>
 
 - 🌱 I’m currently learning **Deep Learning, TensorFlow and Keras**
 
